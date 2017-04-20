@@ -1,0 +1,682 @@
+
+
+MANTENIMIENTO PYTHON UPGRADDE ALL PACKAGES  __02/27/17
+
+
+pip install --upgrade xlwt
+pip install --upgrade xlwings
+pip install --upgrade XlsxWriter
+pip install --upgrade xlrd
+pip install --upgrade wrapt
+pip install --upgrade win-unicode-console
+pip install --upgrade widgetsnbextension
+pip install --upgrade wheel
+pip install --upgrade Werkzeug
+pip install --upgrade wcwidth
+pip install --upgrade unicodecsv
+pip install --upgrade traitlets
+pip install --upgrade tornado
+pip install --upgrade toolz
+pip install --upgrade testpath
+pip install --upgrade tables
+pip install --upgrade sympy
+pip install --upgrade statsmodels
+pip install --upgrade SQLAlchemy
+pip install --upgrade spyder
+pip install --upgrade sockjs-tornado
+pip install --upgrade snowballstemmer
+pip install --upgrade six
+pip install --upgrade singledispatch
+pip install --upgrade simplegeneric
+pip install --upgrade scipy
+pip install --upgrade scikit-learn
+pip install --upgrade scikit-image
+pip install --upgrade ruamel-yaml
+pip install --upgrade rope-py3k
+pip install --upgrade requests
+pip install --upgrade QtPy
+pip install --upgrade qtconsole
+pip install --upgrade QtAwesome
+pip install --upgrade pyzmq
+pip install --upgrade PyYAML
+pip install --upgrade pywin32
+pip install --upgrade pywapi
+pip install --upgrade pytz
+pip install --upgrade python-dateutil
+pip install --upgrade pytest
+pip install --upgrade pyparsing
+pip install --upgrade pyOpenSSL
+pip install --upgrade pylint
+pip install --upgrade Pygments
+pip install --upgrade pygame
+pip install --upgrade pyflakes
+pip install --upgrade pycurl
+pip install --upgrade pycrypto
+pip install --upgrade pycparser
+pip install --upgrade pycosat
+pip install --upgrade pyasn1
+pip install --upgrade py
+pip install --upgrade psutil
+pip install --upgrade prompt-toolkit
+pip install --upgrade ply
+pip install --upgrade pkginfo
+pip install --upgrade pip
+pip install --upgrade Pillow
+pip install --upgrade pickleshare
+pip install --upgrade pep8
+pip install --upgrade patsy
+pip install --upgrade pathlib2
+pip install --upgrade path.py
+pip install --upgrade partd
+pip install --upgrade pandocfilters
+pip install --upgrade pandas
+pip install --upgrade openpyxl
+pip install --upgrade olefile
+pip install --upgrade odo
+pip install --upgrade numpydoc
+pip install --upgrade numpy
+pip install --upgrade numexpr
+pip install --upgrade numba
+pip install --upgrade notebook
+pip install --upgrade nose
+pip install --upgrade nltk
+pip install --upgrade networkx
+pip install --upgrade nbpresent
+pip install --upgrade nbformat
+pip install --upgrade nbconvert
+pip install --upgrade nb-conda
+pip install --upgrade nb-conda-kernels
+pip install --upgrade nb-anacondacloud
+pip install --upgrade multipledispatch
+pip install --upgrade mpmath
+pip install --upgrade mistune
+pip install --upgrade menuinst
+pip install --upgrade mccabe
+pip install --upgrade matplotlib
+pip install --upgrade MarkupSafe
+pip install --upgrade lxml
+pip install --upgrade locket
+pip install --upgrade llvmlite
+pip install --upgrade lazy-object-proxy
+pip install --upgrade jupyter
+pip install --upgrade jupyter-core
+pip install --upgrade jupyter-console
+pip install --upgrade jupyter-client
+pip install --upgrade jsonschema
+pip install --upgrade Jinja2
+pip install --upgrade jedi
+pip install --upgrade jdcal
+pip install --upgrade itsdangerous
+pip install --upgrade isort
+pip install --upgrade ipywidgets
+pip install --upgrade ipython
+pip install --upgrade ipython-genutils
+pip install --upgrade ipykernel
+pip install --upgrade imagesize
+pip install --upgrade idna
+pip install --upgrade html5lib
+pip install --upgrade HeapDict
+pip install --upgrade h5py
+pip install --upgrade greenlet
+pip install --upgrade gevent
+pip install --upgrade Flask
+pip install --upgrade Flask-Cors
+pip install --upgrade filelock
+pip install --upgrade fastcache
+pip install --upgrade et-xmlfile
+pip install --upgrade entrypoints
+pip install --upgrade dynd
+pip install --upgrade docutils
+pip install --upgrade dill
+pip install --upgrade decorator
+pip install --upgrade datashape
+pip install --upgrade dask
+pip install --upgrade cytoolz
+pip install --upgrade Cython
+pip install --upgrade cycler
+pip install --upgrade cx-Oracle
+pip install --upgrade cryptography
+pip install --upgrade contextlib2
+pip install --upgrade configobj
+pip install --upgrade conda
+pip install --upgrade conda-build
+pip install --upgrade comtypes
+pip install --upgrade colorama
+pip install --upgrade clyent
+pip install --upgrade cloudpickle
+pip install --upgrade click
+pip install --upgrade chest
+pip install --upgrade chardet
+pip install --upgrade cffi
+pip install --upgrade Bottleneck
+pip install --upgrade boto
+pip install --upgrade bokeh
+pip install --upgrade bleach
+pip install --upgrade blaze
+pip install --upgrade bitarray
+pip install --upgrade beautifulsoup4
+pip install --upgrade backports.shutil-get-terminal-size
+pip install --upgrade Babel
+
+
+MANTENIMIENTO PYTHON UPGRADDE ALL PACKAGES  __02/27/17
+
+
+conda update xlwt
+conda update xlwings
+conda update XlsxWriter
+conda update xlrd
+conda update wrapt
+conda update win-unicode-console
+conda update widgetsnbextension
+conda update wheel
+conda update Werkzeug
+conda update webencodings
+conda update wcwidth
+conda update unicodecsv
+conda update traitlets
+conda update tornado
+conda update toolz
+conda update testpath
+conda update tables
+conda update sympy
+conda update statsmodels
+conda update SQLAlchemy
+conda update spyder
+conda update sockjs-tornado
+conda update snowballstemmer
+conda update six
+conda update singledispatch
+conda update simplegeneric
+conda update scipy
+conda update scikit-learn
+conda update scikit-image
+conda update ruamel.yaml
+conda update rope-py3k
+conda update requests
+conda update QtPy
+conda update qtconsole
+conda update QtAwesome
+conda update pyzmq
+conda update PyYAML
+conda update pywin32
+conda update pywapi
+conda update pytz
+conda update python-dateutil
+conda update pytest
+conda update pyreadline
+conda update pyparsing
+conda update pyOpenSSL
+conda update pylint
+conda update Pygments
+conda update pygame
+conda update pyflakes
+conda update pycurl
+conda update pycrypto
+conda update pycparser
+conda update pycosat
+conda update pyasn1
+conda update py
+conda update psutil
+conda update prompt-toolkit
+conda update ply
+conda update pkginfo
+conda update pip
+conda update Pillow
+conda update pickleshare
+conda update pep8
+conda update patsy
+conda update pathlib2
+conda update path.py
+conda update partd
+conda update pandocfilters
+conda update pandas
+conda update packaging
+conda update openpyxl
+conda update olefile
+conda update odo
+conda update numpydoc
+conda update numpy
+conda update numexpr
+conda update numba
+conda update notebook
+conda update nose
+conda update nltk
+conda update networkx
+conda update nbpresent
+conda update nbformat
+conda update nbconvert
+conda update nb-conda
+conda update nb-conda-kernels
+conda update nb-anacondacloud
+conda update multipledispatch
+conda update mpmath
+conda update mistune
+conda update menuinst
+conda update mccabe
+conda update matplotlib
+conda update MarkupSafe
+conda update lxml
+conda update locket
+conda update llvmlite
+conda update lazy-object-proxy
+conda update jupyter
+conda update jupyter-core
+conda update jupyter-console
+conda update jupyter-client
+conda update jsonschema
+conda update Jinja2
+conda update jedi
+conda update jdcal
+conda update itsdangerous
+conda update isort
+conda update ipywidgets
+conda update ipython
+conda update ipython-genutils
+conda update ipykernel
+conda update imagesize
+conda update idna
+conda update html5lib
+conda update HeapDict
+conda update h5py
+conda update greenlet
+conda update gevent
+conda update Flask
+conda update Flask-Cors
+conda update filelock
+conda update fastcache
+conda update et-xmlfile
+conda update entrypoints
+conda update dynd
+conda update docutils
+conda update dill
+conda update decorator
+conda update datashape
+conda update dask
+conda update cytoolz
+conda update Cython
+conda update cycler
+conda update cx-Oracle
+conda update cryptography
+conda update contextlib2
+conda update configobj
+conda update conda
+conda update conda-build
+conda update comtypes
+conda update colorama
+conda update clyent
+conda update cloudpickle
+conda update click
+conda update chest
+conda update chardet
+conda update cffi
+conda update bottleneck
+conda update boto
+conda update bokeh
+conda update bleach
+conda update blaze
+conda update bitarray
+conda update beautifulsoup4
+conda update backports.shutil-get-terminal-size
+conda update Babel
+conda update astropy
+conda update astroid
+conda update argcomplete
+conda update appdirs
+conda update anaconda-navigator
+conda update anaconda-client
+conda update anaconda-clean
+conda update alabaster
+conda update sphinx
+conda update setuptools
+
+
+MANTENIMIENTO PYTHON UPGRADDE ALL PACKAGES  __02/27/17
+
+
+conda update xlwt
+conda update xlwings
+conda update XlsxWriter
+conda update xlrd
+conda update wrapt
+conda update win-unicode-console
+conda update widgetsnbextension
+conda update wheel
+conda update Werkzeug
+conda update webencodings
+conda update wcwidth
+conda update unicodecsv
+conda update traitlets
+conda update tornado
+conda update toolz
+conda update testpath
+conda update tables
+conda update sympy
+conda update statsmodels
+conda update SQLAlchemy
+conda install -f psutil
+conda update conda
+conda update spyder
+conda update sockjs-tornado
+conda update snowballstemmer
+conda update six
+conda update singledispatch
+conda update simplegeneric
+conda update scipy
+conda update scikit-learn
+conda update scikit-image
+conda update ruamel.yaml
+conda update rope-py3k
+conda update requests
+conda update QtPy
+conda update qtconsole
+conda update QtAwesome
+conda update pyzmq
+conda update PyYAML
+conda update pywin32
+conda update pywapi
+conda update pytz
+conda update python-dateutil
+conda update pytest
+conda update pyreadline
+conda update pyparsing
+conda update pyOpenSSL
+conda update pylint
+conda update Pygments
+conda update pygame
+conda update pyflakes
+conda update pycurl
+conda update pycrypto
+conda update pycparser
+conda update pycosat
+conda update pyasn1
+conda update py
+conda update psutil
+conda update prompt-toolkit
+conda update ply
+conda update pkginfo
+conda update pip
+conda update Pillow
+conda update pickleshare
+conda update pep8
+conda update patsy
+conda update pathlib2
+conda update path.py
+conda update partd
+conda update pandocfilters
+conda update pandas
+conda update packaging
+conda update openpyxl
+conda update olefile
+conda update odo
+conda update numpydoc
+conda update numpy
+conda update numexpr
+conda update numba
+conda update notebook
+conda update nose
+conda update nltk
+conda update networkx
+conda update nbpresent
+conda update nbformat
+conda update nbconvert
+conda update nb-conda
+conda update nb-conda-kernels
+conda update nb-anacondacloud
+conda update multipledispatch
+conda update mpmath
+conda update mistune
+conda update menuinst
+conda update mccabe
+conda update matplotlib
+conda update MarkupSafe
+conda update lxml
+conda update locket
+conda update llvmlite
+conda update lazy-object-proxy
+conda update jupyter
+conda update jupyter-core
+conda update jupyter-console
+conda update jupyter-client
+conda update jsonschema
+conda update Jinja2
+conda update jedi
+conda update jdcal
+conda update itsdangerous
+conda update isort
+conda update ipywidgets
+conda update ipython
+conda update ipython-genutils
+conda update ipykernel
+conda update imagesize
+conda update idna
+conda update html5lib
+conda update HeapDict
+conda update h5py
+conda update greenlet
+conda update gevent
+conda update Flask
+conda update Flask-Cors
+conda update filelock
+conda update fastcache
+conda update et-xmlfile
+conda update entrypoints
+conda update dynd
+conda update docutils
+conda update dill
+conda update decorator
+conda update datashape
+conda update dask
+conda update cytoolz
+conda update Cython
+conda update cycler
+conda update cx-Oracle
+conda update cryptography
+conda update contextlib2
+conda update configobj
+conda update conda
+conda update conda-build
+conda update comtypes
+conda update colorama
+conda update clyent
+conda update cloudpickle
+conda update click
+conda update chest
+conda update chardet
+conda update cffi
+conda update bottleneck
+conda update boto
+conda update bokeh
+conda update bleach
+conda update blaze
+conda update bitarray
+conda update beautifulsoup4
+conda update backports.shutil-get-terminal-size
+conda update Babel
+conda update astropy
+conda update astroid
+conda update argcomplete
+conda update appdirs
+conda update anaconda-navigator
+conda update anaconda-client
+conda update anaconda-clean
+conda update alabaster
+conda update sphinx
+conda update setuptools
+
+
+MANTENIMIENTO PYTHON UPGRADDE ALL PACKAGES  __02/27/17
+
+
+
+
+MANTENIMIENTO PYTHON UPGRADDE ALL PACKAGES  __02/27/17
+
+
+conda update xlwt
+conda update xlwings
+conda update XlsxWriter
+conda update xlrd
+conda update wrapt
+conda update win-unicode-console
+conda update widgetsnbextension
+conda update wheel
+conda update Werkzeug
+conda update webencodings
+conda update wcwidth
+conda update unicodecsv
+conda update traitlets
+conda update tornado
+conda update toolz
+conda update testpath
+conda update tables
+conda update sympy
+conda update statsmodels
+conda update SQLAlchemy
+conda update spyder
+conda update sockjs-tornado
+conda update snowballstemmer
+conda update six
+conda update singledispatch
+conda update simplegeneric
+conda update scipy
+conda update scikit-learn
+conda update scikit-image
+conda update ruamel.yaml
+conda update rope-py3k
+conda update requests
+conda update QtPy
+conda update qtconsole
+conda update QtAwesome
+conda update pyzmq
+conda update PyYAML
+conda update pywin32
+conda update pywapi
+conda update pytz
+conda update python-dateutil
+conda update pytest
+conda update pyreadline
+conda update pyparsing
+conda update pyOpenSSL
+conda update pylint
+conda update Pygments
+conda update pygame
+conda update pyflakes
+conda update pycurl
+conda update pycrypto
+conda update pycparser
+conda update pycosat
+conda update pyasn1
+conda update py
+conda update psutil
+conda update prompt-toolkit
+conda update ply
+conda update pkginfo
+conda update pip
+conda update Pillow
+conda update pickleshare
+conda update pep8
+conda update patsy
+conda update pathlib2
+conda update path.py
+conda update partd
+conda update pandocfilters
+conda update pandas
+conda update packaging
+conda update openpyxl
+conda update olefile
+conda update odo
+conda update numpydoc
+conda update numpy
+conda update numexpr
+conda update numba
+conda update notebook
+conda update nose
+conda update nltk
+conda update networkx
+conda update nbpresent
+conda update nbformat
+conda update nbconvert
+conda update nb-conda
+conda update nb-conda-kernels
+conda update nb-anacondacloud
+conda update multipledispatch
+conda update mpmath
+conda update mistune
+conda update menuinst
+conda update mccabe
+conda update matplotlib
+conda update MarkupSafe
+conda update lxml
+conda update locket
+conda update llvmlite
+conda update lazy-object-proxy
+conda update jupyter
+conda update jupyter-core
+conda update jupyter-console
+conda update jupyter-client
+conda update jsonschema
+conda update Jinja2
+conda update jedi
+conda update jdcal
+conda update itsdangerous
+conda update isort
+conda update ipywidgets
+conda update ipython
+conda update ipython-genutils
+conda update ipykernel
+conda update imagesize
+conda update idna
+conda update html5lib
+conda update HeapDict
+conda update h5py
+conda update greenlet
+conda update gevent
+conda update Flask
+conda update Flask-Cors
+conda update filelock
+conda update fastcache
+conda update et-xmlfile
+conda update entrypoints
+conda update dynd
+conda update docutils
+conda update dill
+conda update decorator
+conda update datashape
+conda update dask
+conda update cytoolz
+conda update Cython
+conda update cycler
+conda update cx-Oracle
+conda update cryptography
+conda update contextlib2
+conda update configobj
+conda update conda
+conda update conda-build
+conda update comtypes
+conda update colorama
+conda update clyent
+conda update cloudpickle
+conda update click
+conda update chest
+conda update chardet
+conda update cffi
+conda update bottleneck
+conda update boto
+conda update bokeh
+conda update bleach
+conda update blaze
+conda update bitarray
+conda update beautifulsoup4
+conda update backports.shutil-get-terminal-size
+conda update Babel
+conda update astropy
+conda update astroid
+conda update argcomplete
+conda update appdirs
+conda update anaconda-navigator
+conda update anaconda-client
+conda update anaconda-clean
+conda update alabaster
+conda update sphinx
+conda update setuptools
